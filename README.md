@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Shukla</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashshukla20" alt="yashshukla20" /></a> </p>
 
 - 🔭 I’m currently working on [lane detection model](https://github.com/yashshukla20/lane-detection-model.git)
 
