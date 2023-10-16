@@ -2,6 +2,7 @@
 <h3 align="center">A passionate data analyst from India</h3>
 
 
+
 - 🔭 I’m currently working on [lane detection model](https://github.com/yashshukla20/lane-detection-model.git)
 
 - 🌱 I’m currently learning **Machine learning**
